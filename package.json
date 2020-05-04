@@ -1,0 +1,19 @@
+{
+  "name": "ng-rock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit062/ng-rock.git"
+  },
+  "author": "Rohit Salaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit062/ng-rock/issues"
+  },
+  "homepage": "https://github.com/rohit062/ng-rock#readme"
+}
