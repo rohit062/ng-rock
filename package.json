@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jest"
   },
+  "bin": {
+    "ng-run": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rohit062/ng-rock.git"

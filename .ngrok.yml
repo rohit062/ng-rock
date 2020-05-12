@@ -1,0 +1,8 @@
+tunnels:
+  httpbin:
+    proto: http
+    addr: 8000
+  demo:
+    proto: http
+    addr: 9090
+    inspect: false
