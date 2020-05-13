@@ -1,5 +1,5 @@
 {
-  "name": "ng-rock",
+  "name": "ng-rok",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,18 +7,18 @@
     "test": "jest"
   },
   "bin": {
-    "ng-run": "./index.js"
+    "ng-rok": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohit062/ng-rock.git"
+    "url": "git+https://github.com/rohit062/ng-rok.git"
   },
   "author": "Rohit Salaria",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohit062/ng-rock/issues"
+    "url": "https://github.com/rohit062/ng-rok/issues"
   },
-  "homepage": "https://github.com/rohit062/ng-rock#readme",
+  "homepage": "https://github.com/rohit062/ng-rok#readme",
   "devDependencies": {
     "eslint": "^6.8.0",
     "husky": "^4.2.5",
