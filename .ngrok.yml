@@ -5,4 +5,4 @@ tunnels:
   demo:
     proto: http
     addr: 9090
-    inspect: false
+    inspect: true

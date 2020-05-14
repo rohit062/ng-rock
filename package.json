@@ -1,27 +1,30 @@
 {
-  "name": "ng-rok",
-  "version": "1.0.0",
+  "name": "tunnel-local",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "bin": {
-    "ng-rok": "./index.js"
+    "tunnel-local": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohit062/ng-rok.git"
+    "url": "git+https://github.com/rohit062/tunnel-local.git"
   },
   "author": "Rohit Salaria",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohit062/ng-rok/issues"
+    "url": "https://github.com/rohit062/tunnel-local/issues"
   },
-  "homepage": "https://github.com/rohit062/ng-rok#readme",
+  "homepage": "https://github.com/rohit062/tunnel-local#readme",
   "devDependencies": {
     "eslint": "^6.8.0",
     "husky": "^4.2.5",
     "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "open": "^7.0.3"
   }
 }
