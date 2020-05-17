@@ -25,6 +25,8 @@
     "jest": "^26.0.1"
   },
   "dependencies": {
-    "open": "^7.0.3"
+    "global-node": "^1.0.0",
+    "open": "^7.0.3",
+    "tunnel-local": "^1.0.1"
   }
 }

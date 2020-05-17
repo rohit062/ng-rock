@@ -1,0 +1,1 @@
+//  postinstall script to install bin while  installing the module
